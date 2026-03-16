@@ -1,4 +1,4 @@
-# Polymarket BTC 15m bot
+# Polymarket Arbitrage Market Maker BTC 15m bot
 
 Standalone bots for Polymarket’s BTC 15-minute up/down markets: market WebSocket + 5-deep book + rise/fall detector + pair orders (UP/DOWN), with portfolio tracking, pause/rebalance, and auto-switch to the next 15m market.
 
